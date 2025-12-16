@@ -1,5 +1,5 @@
 ## Hi, I'm Jorge 👋
-**Software Developer** specializing in scalable web applications and e-commerce platforms | Munich, Germany
+**Software Developer** specializing in scalable web applications and e-commerce platforms.
 
 ## 👨‍💻 About Me
 
