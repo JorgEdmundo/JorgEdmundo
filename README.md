@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Jorge 👋
+**Software Developer** specializing in scalable web applications and e-commerce platforms | Munich, Germany
 
-<!--
-**JorgEdmundo/JorgEdmundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Software Developer with 10+ years building scalable web applications for luxury retail and international brands. Specialized in full-stack JavaScript development, system architecture, and delivering end-to-end features for platforms serving 500K+ monthly users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience spans frontend (React.js, TypeScript), backend (Node.js, GraphQL), and infrastructure (Docker, CI/CD), with strong focus on code quality, cross-functional collaboration, and technical mentorship.
+
+## 🌱 Currently Exploring
+
+- Full-stack TypeScript development patterns
+- GraphQL API design and performance optimization
+- Microservices architecture and system design
+- Cloud infrastructure and containerization strategies
+
+## 🛠️ Technologies I Work With
+```
+Frontend:  React.js • TypeScript • Next.js • Vue.js • Redux • Server-Side Rendering
+Backend:   Node.js • GraphQL • Apollo • REST APIs • MySQL • Docker
+DevOps:    Git • Jenkins • ArgoCD • Webpack • Vite • CI/CD Pipelines
+Testing:   Jest • React Testing Library
+```
