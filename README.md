@@ -3,9 +3,13 @@
 
 ## 👨‍💻 About Me
 
-Software Developer with 10+ years building scalable web applications for luxury retail and international brands. Specialized in full-stack JavaScript development, system architecture, and delivering end-to-end features for platforms serving 500K+ monthly users.
+I build things for the web. Mostly e-commerce platforms that need to handle a lot of traffic without falling over.
 
-Experience spans frontend (React.js, TypeScript), backend (Node.js, GraphQL), and infrastructure (Docker, CI/CD), with strong focus on code quality, cross-functional collaboration, and technical mentorship.
+**What I work with:** JavaScript/TypeScript across the stack—React for interfaces, Node.js for APIs, GraphQL when REST gets annoying, and enough DevOps knowledge to deploy without panicking.
+
+**What I care about:** Clean code, good architecture, build it mindset, and helping other developers level up.
+
+I have been 10+ years doing this, and I am enjoying it. Based in Munich.
 
 ## 🌱 Currently Exploring
 
@@ -13,11 +17,3 @@ Experience spans frontend (React.js, TypeScript), backend (Node.js, GraphQL), an
 - GraphQL API design and performance optimization
 - Microservices architecture and system design
 - Cloud infrastructure and containerization strategies
-
-## 🛠️ Technologies I Work With
-```
-Frontend:  React.js • TypeScript • Next.js • Vue.js • Redux • Server-Side Rendering
-Backend:   Node.js • GraphQL • Apollo • REST APIs • MySQL • Docker
-DevOps:    Git • Jenkins • ArgoCD • Webpack • Vite • CI/CD Pipelines
-Testing:   Jest • React Testing Library
-```
